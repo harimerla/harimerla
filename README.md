@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @harimerla
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me Email     - hmerla@uab.edu, harikrishnamerla@gmail.com
-                     Linkedin  - https://www.linkedin.com/in/hari-merla-70b97212a/
-                     Github    - https://github.com/harimerla
+# Hi there! 👋 I'm Hari Merla
 
-<!---
-harimerla/harimerla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm passionate about machine learning and its applications. Currently pursuing a journey of continuous learning in the field.
+
+- 🔭 Exploring the realms of machine learning
+- 🌱 Enthusiastic learner and researcher
+- 💼 Open to collaborations and projects in machine learning
+- 🌟 Open to work opportunities in the field of machine learning
+- 📫 Reach me via:
+  - Email: hmerla@uab.edu, harikrishnamerla@gmail.com
+  - LinkedIn: [Hari Merla](https://www.linkedin.com/in/hari-merla-70b97212a/)
+  - GitHub: [harimerla](https://github.com/harimerla)
+
+Let's connect and build something amazing together!
