@@ -5,7 +5,7 @@ I'm passionate about machine learning and its applications. Currently pursuing a
 
 - 🔭 Exploring the realms of machine learning
 - 🌱 Enthusiastic learner and researcher
-- 💼 Open to collaborations and projects in machine learning
+- 💼 Open to collaborations and projects in GenAI and LLM's
 - 🌟 Open to work opportunities in the field of machine learning
 - 📫 Reach me via:
   - Email: hmerla@uab.edu, harikrishnamerla@gmail.com
